@@ -18,6 +18,6 @@
   "homepage": "https://github.com/GBorot/natour-css-exercise#readme",
   "dependencies": {},
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
